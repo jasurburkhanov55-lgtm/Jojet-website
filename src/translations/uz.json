@@ -1,0 +1,227 @@
+{
+  "header": {
+    "topBar": {
+      "college": "Jojet Kolleji",
+      "university": "Jojet Xalqaro Universiteti",
+      "programs": "Yo'nalishlar",
+      "international": "Xalqaro aloqalar",
+      "apply": "Ro'yxatdan o'tish"
+    },
+    "nav": {
+      "home": "Bosh sahifa",
+      "about": "Universitet",
+      "academics": "Ta'lim",
+      "admissions": "Qabul",
+      "studentLife": "Talaba hayoti",
+      "news": "Yangiliklar",
+      "contact": "Aloqa"
+    },
+    "dropdowns": {
+      "about": {
+        "title": "JIU haqida",
+        "overview": "Universitet haqida",
+        "vision": "Vizyon va missiya",
+        "history": "Tarix",
+        "leadership": "Rahbariyat",
+        "campus": "Kampus"
+      },
+      "academics": {
+        "title": "Dasturlar",
+        "undergraduate": "Bakalavriat",
+        "graduate": "Magistratura",
+        "doctoral": "Doktorantura",
+        "faculties": "Fakultetlar",
+        "research": "Tadqiqot"
+      },
+      "admissions": {
+        "title": "Qabul",
+        "whyJIU": "Nega JIU?",
+        "howToApply": "Qanday qabul qilinadi",
+        "requirements": "Talablar",
+        "deadlines": "Muddati",
+        "scholarships": "Grantlar"
+      },
+      "studentLife": {
+        "title": "Talaba hayoti",
+        "campusLife": "Kampus hayoti",
+        "housing": "Turar joy",
+        "activities": "Tadbirlar",
+        "support": "Yordam xizmatlari"
+      }
+    }
+  },
+  "hero": {
+    "title": "Kelajak liderlarini tarbiyalaymiz",
+    "subtitle": "Global hamjamiyat uchun dunyo standartidagi ta'lim. Jojet Xalqaro Universitetiga qo'shiling va salohiyatingizni oching.",
+    "applyBtn": "Ro'yxatdan o'tish",
+    "learnMoreBtn": "Batafsil"
+  },
+  "stats": {
+    "programs": "Dasturlar",
+    "students": "Talabalar",
+    "faculty": "Professor-o'qituvchilar",
+    "countries": "Mamlakatlar"
+  },
+  "news": {
+    "title": "So'nggi yangiliklar",
+    "subtitle": "JIU'dagi so'nggi voqealar bilan tanishing",
+    "readMore": "Batafsil",
+    "viewAll": "Barcha yangiliklar"
+  },
+  "quickLinks": {
+    "title": "Jojet Xalqaro Universiteti",
+    "question": "Siz...?",
+    "types": {
+      "prospective": "Abituriyent",
+      "current": "Talaba",
+      "faculty": "O'qituvchi",
+      "alumni": "Bitiruvchi"
+    },
+    "links": {
+      "admissions": "Qabul",
+      "programs": "Dasturlar",
+      "library": "Kutubxona",
+      "portal": "Talaba portali",
+      "calendar": "O'quv jadvali",
+      "scholarships": "Grantlar",
+      "housing": "Turar joy",
+      "career": "Karyera markazi"
+    }
+  },
+  "campus": {
+    "title": "Bizning kampus",
+    "subtitle": "Dunyo standartidagi infratuzilmamizni kashf eting",
+    "map": "Xarita",
+    "tour": "Virtual sayohat"
+  },
+  "footer": {
+    "copyright": "© 2024 Jojet Xalqaro Universiteti. Barcha huquqlar himoyalangan.",
+    "campuses": {
+      "main": {
+        "name": "Asosiy kampus",
+        "address": "Universitet ko'chasi 123, Toshkent 100000",
+        "phone": "+998 71 123 4567",
+        "email": "info@jojet.edu.uz"
+      },
+      "east": {
+        "name": "Sharqiy kampus",
+        "address": "Ta'lim ko'chasi 456, Toshkent 100001",
+        "phone": "+998 71 234 5678"
+      }
+    },
+    "links": {
+      "contact": "Aloqa",
+      "sitemap": "Sayt xaritasi",
+      "privacy": "Maxfiylik siyosati",
+      "terms": "Foydalanish shartlari"
+    }
+  },
+  "pages": {
+    "about": {
+      "title": "JIU haqida",
+      "overview": {
+        "title": "Universitet haqida",
+        "content": "Jojet Xalqaro Universiteti (JIU) - akademik mukammallik, innovatsion tadqiqotlar va global hamkorlikka sodiq bo'lgan yetakchi oliy ta'lim muassasasi. Dunyo standartidagi ta'lim berish viziyasi bilan tashkil etilgan JIU, mintaqadagi eng nufuzli universitetlardan biriga aylandi."
+      },
+      "vision": {
+        "title": "Vizyon va missiya",
+        "visionTitle": "Bizning vizyonimiz",
+        "visionContent": "Ta'lim va tadqiqotlar sohasida dunyo miqyosida tan olingan mukammallik markazi bo'lish, jamiyatning barqaror rivojlanishiga hissa qo'shadigan kelajak liderlarini tarbiyalash.",
+        "missionTitle": "Bizning missiyamiz",
+        "missionContent": "Innovatsion o'qitish, ilg'or tadqiqotlar va jamiyat bilan hamkorlik orqali transformatsion ta'lim berish, turli va inklyuziv o'quv muhitini yaratish."
+      },
+      "history": {
+        "title": "Bizning tariximiz",
+        "content": "1995-yilda tashkil etilgan Jojet Xalqaro Universiteti mintaqadagi ta'limni o'zgartirish viziyasi bilan kichik kollej sifatida boshlandi. O'tgan uch o'n yillik davomida biz turli sohalar bo'yicha dasturlar taklif qiluvchi, bir necha kampuslarga ega kompleks universitetga aylandik."
+      }
+    },
+    "academics": {
+      "title": "Ta'lim",
+      "subtitle": "Turli xil dasturlarimizni kashf eting",
+      "undergraduate": {
+        "title": "Bakalavriat dasturlari",
+        "description": "Turli sohalar bo'yicha 40 dan ortiq bakalavriat dasturlaridan tanlang."
+      },
+      "graduate": {
+        "title": "Magistratura dasturlari",
+        "description": "Magistratura va doktorantura dasturlari bilan karyerangizni rivojlantiring."
+      },
+      "faculties": {
+        "title": "Bizning fakultetlar",
+        "list": [
+          "Muhandislik fakulteti",
+          "Biznes fakulteti",
+          "Tibbiyot fakulteti",
+          "Huquq fakulteti",
+          "San'at va fanlar fakulteti"
+        ]
+      }
+    },
+    "admissions": {
+      "title": "Qabul",
+      "subtitle": "JIU'da o'qishni boshlang",
+      "howToApply": {
+        "title": "Qanday qabul qilinadi",
+        "steps": [
+          "Onlayn ariza formasini to'ldiring",
+          "Kerakli hujjatlarni yuboring",
+          "Ariza to'lovini amalga oshiring",
+          "Kirish imtihonida qatnashing (agar talab qilinsa)",
+          "Qabul qarorini oling"
+        ]
+      },
+      "requirements": {
+        "title": "Qabul talablari",
+        "undergraduate": "O'rta maktab diplomi yoki ekvivalenti",
+        "graduate": "Tan olingan muassasadan bakalavir diplomi",
+        "english": "Ingliz tili bilimi (IELTS 6.0 yoki ekvivalenti)"
+      },
+      "deadlines": {
+        "title": "Muhim sanalar",
+        "fall": "Kuz semestri: 15-iyul",
+        "spring": "Bahor semestri: 15-dekabr"
+      }
+    },
+    "studentLife": {
+      "title": "Talaba hayoti",
+      "subtitle": "JIU'da yorqin kampus hayotini his eting",
+      "campus": {
+        "title": "Kampus hayoti",
+        "content": "Bizning kampuslar talabalar o'rganishi, o'sishi va umrbod do'stliklar qurishi mumkin bo'lgan yorqin va turli xil hamjamiyatni taklif qiladi."
+      },
+      "housing": {
+        "title": "Talaba turar joyi",
+        "content": "Biz zamonaviy qulayliklar va 24/7 xavfsizlik bilan jihozlangan qulay kampus ichida yashash imkoniyatlarini taklif qilamiz."
+      },
+      "activities": {
+        "title": "Talaba tadbirlari",
+        "content": "Akademik jamiyatlardan tortib madaniy va sport klublarigacha 50 dan ortiq talaba klub va tashkilotlariga qo'shiling."
+      }
+    },
+    "news": {
+      "title": "Yangiliklar va tadbirlar",
+      "subtitle": "JIU'dagi so'nggi yangiliklardan xabardor bo'ling",
+      "latestNews": "So'nggi yangiliklar",
+      "upcomingEvents": "Kelgusi tadbirlar"
+    },
+    "contact": {
+      "title": "Aloqa",
+      "subtitle": "Biz bilan bog'laning",
+      "form": {
+        "name": "To'liq ism",
+        "email": "Elektron pochta",
+        "phone": "Telefon raqami",
+        "subject": "Mavzu",
+        "message": "Xabar",
+        "submit": "Yuborish"
+      },
+      "info": {
+        "title": "Aloqa ma'lumotlari",
+        "address": "Manzil",
+        "phone": "Telefon",
+        "email": "Elektron pochta",
+        "hours": "Ish soatlari"
+      }
+    }
+  }
+}

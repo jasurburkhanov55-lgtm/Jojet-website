@@ -1,0 +1,227 @@
+{
+  "header": {
+    "topBar": {
+      "college": "Jojet College",
+      "university": "Jojet International University",
+      "programs": "Programs",
+      "international": "International Office",
+      "apply": "Apply Now"
+    },
+    "nav": {
+      "home": "Home",
+      "about": "About",
+      "academics": "Academics",
+      "admissions": "Admissions",
+      "studentLife": "Student Life",
+      "news": "News & Events",
+      "contact": "Contact"
+    },
+    "dropdowns": {
+      "about": {
+        "title": "About JIU",
+        "overview": "University Overview",
+        "vision": "Vision & Mission",
+        "history": "History",
+        "leadership": "Leadership",
+        "campus": "Campus"
+      },
+      "academics": {
+        "title": "Programs",
+        "undergraduate": "Undergraduate",
+        "graduate": "Graduate",
+        "doctoral": "Doctoral",
+        "faculties": "Faculties",
+        "research": "Research"
+      },
+      "admissions": {
+        "title": "Admissions",
+        "whyJIU": "Why JIU?",
+        "howToApply": "How to Apply",
+        "requirements": "Requirements",
+        "deadlines": "Deadlines",
+        "scholarships": "Scholarships"
+      },
+      "studentLife": {
+        "title": "Student Life",
+        "campusLife": "Campus Life",
+        "housing": "Housing",
+        "activities": "Activities",
+        "support": "Support Services"
+      }
+    }
+  },
+  "hero": {
+    "title": "Shaping Future Leaders",
+    "subtitle": "World-class education for a global community. Join Jojet International University and unlock your potential.",
+    "applyBtn": "Apply Now",
+    "learnMoreBtn": "Learn More"
+  },
+  "stats": {
+    "programs": "Programs",
+    "students": "Students",
+    "faculty": "Faculty Members",
+    "countries": "Countries"
+  },
+  "news": {
+    "title": "Latest News",
+    "subtitle": "Stay updated with the latest happenings at JIU",
+    "readMore": "Read More",
+    "viewAll": "View All News"
+  },
+  "quickLinks": {
+    "title": "Jojet International University",
+    "question": "Are you...?",
+    "types": {
+      "prospective": "Prospective Student",
+      "current": "Current Student",
+      "faculty": "Faculty",
+      "alumni": "Alumni"
+    },
+    "links": {
+      "admissions": "Admissions",
+      "programs": "Programs",
+      "library": "Library",
+      "portal": "Student Portal",
+      "calendar": "Academic Calendar",
+      "scholarships": "Scholarships",
+      "housing": "Housing",
+      "career": "Career Services"
+    }
+  },
+  "campus": {
+    "title": "Our Campus",
+    "subtitle": "Explore our world-class facilities",
+    "map": "View Map",
+    "tour": "Virtual Tour"
+  },
+  "footer": {
+    "copyright": "© 2024 Jojet International University. All Rights Reserved.",
+    "campuses": {
+      "main": {
+        "name": "Main Campus",
+        "address": "123 University Avenue, Tashkent 100000",
+        "phone": "+998 71 123 4567",
+        "email": "info@jojet.edu.uz"
+      },
+      "east": {
+        "name": "East Campus",
+        "address": "456 Education Street, Tashkent 100001",
+        "phone": "+998 71 234 5678"
+      }
+    },
+    "links": {
+      "contact": "Contact Us",
+      "sitemap": "Sitemap",
+      "privacy": "Privacy Policy",
+      "terms": "Terms of Use"
+    }
+  },
+  "pages": {
+    "about": {
+      "title": "About JIU",
+      "overview": {
+        "title": "University Overview",
+        "content": "Jojet International University (JIU) is a leading institution of higher education committed to academic excellence, innovative research, and global engagement. Founded with the vision of providing world-class education, JIU has grown to become one of the most prestigious universities in the region."
+      },
+      "vision": {
+        "title": "Vision & Mission",
+        "visionTitle": "Our Vision",
+        "visionContent": "To be a globally recognized center of excellence in education and research, shaping future leaders who will contribute to the sustainable development of society.",
+        "missionTitle": "Our Mission",
+        "missionContent": "To provide transformative education through innovative teaching, cutting-edge research, and community engagement, while fostering a diverse and inclusive learning environment."
+      },
+      "history": {
+        "title": "Our History",
+        "content": "Founded in 1995, Jojet International University began as a small college with a vision to transform education in the region. Over the past three decades, we have grown into a comprehensive university with multiple campuses, offering programs across various disciplines."
+      }
+    },
+    "academics": {
+      "title": "Academics",
+      "subtitle": "Discover our diverse range of programs",
+      "undergraduate": {
+        "title": "Undergraduate Programs",
+        "description": "Choose from over 40 undergraduate programs across various disciplines."
+      },
+      "graduate": {
+        "title": "Graduate Programs",
+        "description": "Advance your career with our master's and doctoral programs."
+      },
+      "faculties": {
+        "title": "Our Faculties",
+        "list": [
+          "Faculty of Engineering",
+          "Faculty of Business",
+          "Faculty of Medicine",
+          "Faculty of Law",
+          "Faculty of Arts & Sciences"
+        ]
+      }
+    },
+    "admissions": {
+      "title": "Admissions",
+      "subtitle": "Begin your journey at JIU",
+      "howToApply": {
+        "title": "How to Apply",
+        "steps": [
+          "Complete the online application form",
+          "Submit required documents",
+          "Pay application fee",
+          "Attend entrance examination (if required)",
+          "Receive admission decision"
+        ]
+      },
+      "requirements": {
+        "title": "Admission Requirements",
+        "undergraduate": "High school diploma or equivalent",
+        "graduate": "Bachelor's degree from recognized institution",
+        "english": "English proficiency (IELTS 6.0 or equivalent)"
+      },
+      "deadlines": {
+        "title": "Important Deadlines",
+        "fall": "Fall Semester: July 15",
+        "spring": "Spring Semester: December 15"
+      }
+    },
+    "studentLife": {
+      "title": "Student Life",
+      "subtitle": "Experience vibrant campus life at JIU",
+      "campus": {
+        "title": "Campus Life",
+        "content": "Our campuses offer a vibrant and diverse community where students can learn, grow, and make lifelong connections."
+      },
+      "housing": {
+        "title": "Student Housing",
+        "content": "We offer comfortable on-campus accommodation options with modern amenities and 24/7 security."
+      },
+      "activities": {
+        "title": "Student Activities",
+        "content": "Join over 50 student clubs and organizations, from academic societies to cultural and sports clubs."
+      }
+    },
+    "news": {
+      "title": "News & Events",
+      "subtitle": "Stay informed about the latest at JIU",
+      "latestNews": "Latest News",
+      "upcomingEvents": "Upcoming Events"
+    },
+    "contact": {
+      "title": "Contact Us",
+      "subtitle": "Get in touch with us",
+      "form": {
+        "name": "Full Name",
+        "email": "Email Address",
+        "phone": "Phone Number",
+        "subject": "Subject",
+        "message": "Message",
+        "submit": "Send Message"
+      },
+      "info": {
+        "title": "Contact Information",
+        "address": "Address",
+        "phone": "Phone",
+        "email": "Email",
+        "hours": "Working Hours"
+      }
+    }
+  }
+}
