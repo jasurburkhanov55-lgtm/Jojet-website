@@ -11,8 +11,10 @@ module.exports = {
         background: "hsl(var(--background))",
         foreground: "hsl(var(--foreground))",
         primary: {
-          DEFAULT: "hsl(var(--primary))",
-          foreground: "hsl(var(--primary-foreground))",
+          DEFAULT: "#1b3b86",
+          foreground: "#ffffff",
+          light: "#2a4a9c",
+          dark: "#142c66",
         },
         secondary: {
           DEFAULT: "hsl(var(--secondary))",
@@ -27,8 +29,10 @@ module.exports = {
           foreground: "hsl(var(--muted-foreground))",
         },
         accent: {
-          DEFAULT: "hsl(var(--accent))",
-          foreground: "hsl(var(--accent-foreground))",
+          DEFAULT: "#996600",
+          foreground: "#ffffff",
+          light: "#c9a227",
+          dark: "#7a5200",
         },
         popover: {
           DEFAULT: "hsl(var(--popover))",
@@ -38,29 +42,21 @@ module.exports = {
           DEFAULT: "hsl(var(--card))",
           foreground: "hsl(var(--card-foreground))",
         },
-        sidebar: {
-          DEFAULT: "hsl(var(--sidebar-background))",
-          foreground: "hsl(var(--sidebar-foreground))",
-          primary: "hsl(var(--sidebar-primary))",
-          "primary-foreground": "hsl(var(--sidebar-primary-foreground))",
-          accent: "hsl(var(--sidebar-accent))",
-          "accent-foreground": "hsl(var(--sidebar-accent-foreground))",
-          border: "hsl(var(--sidebar-border))",
-          ring: "hsl(var(--sidebar-ring))",
+        // Custom colors for Jojet University
+        jojet: {
+          blue: "#1b3b86",
+          "blue-light": "#2a4a9c",
+          "blue-dark": "#142c66",
+          gold: "#996600",
+          "gold-light": "#c9a227",
+          "gold-dark": "#7a5200",
+          gray: "#f7f7f7",
+          "gray-border": "#ebebeb",
         },
-        // Custom colors for SNU website
-        snu: {
-          black: "#0a0a0a",
-          "dark-gray": "#1a1a1a",
-          "medium-gray": "#2a2a2a",
-          gold: "#C9A227",
-          "light-gold": "#E8D5A3",
-          "dark-gold": "#9A7B1A",
-          white: "#FFFFFF",
-          "off-white": "#F5F5F5",
-          gray: "#666666",
-          "light-gray": "#999999",
-        },
+      },
+      fontFamily: {
+        sans: ['"Open Sans"', 'sans-serif'],
+        serif: ['"Noto Serif"', 'serif'],
       },
       borderRadius: {
         xl: "calc(var(--radius) + 4px)",
@@ -71,12 +67,7 @@ module.exports = {
       },
       boxShadow: {
         xs: "0 1px 2px 0 rgb(0 0 0 / 0.05)",
-        gold: "0 0 20px rgba(201, 162, 39, 0.3)",
-        "gold-lg": "0 0 40px rgba(201, 162, 39, 0.4)",
-      },
-      fontFamily: {
-        sans: ["Inter", "system-ui", "-apple-system", "sans-serif"],
-        display: ["Playfair Display", "serif"],
+        header: "0 2px 10px rgba(0, 0, 0, 0.1)",
       },
       keyframes: {
         "accordion-down": {
@@ -91,55 +82,25 @@ module.exports = {
           "0%,70%,100%": { opacity: "1" },
           "20%,50%": { opacity: "0" },
         },
-        "fade-in-up": {
-          "0%": { opacity: "0", transform: "translateY(30px)" },
-          "100%": { opacity: "1", transform: "translateY(0)" },
-        },
         "fade-in": {
-          "0%": { opacity: "0" },
-          "100%": { opacity: "1" },
+          from: { opacity: "0" },
+          to: { opacity: "1" },
         },
-        "slide-in-left": {
-          "0%": { opacity: "0", transform: "translateX(-50px)" },
-          "100%": { opacity: "1", transform: "translateX(0)" },
-        },
-        "slide-in-right": {
-          "0%": { opacity: "0", transform: "translateX(50px)" },
-          "100%": { opacity: "1", transform: "translateX(0)" },
-        },
-        "scale-in": {
-          "0%": { opacity: "0", transform: "scale(0.9)" },
-          "100%": { opacity: "1", transform: "scale(1)" },
+        "slide-up": {
+          from: { opacity: "0", transform: "translateY(20px)" },
+          to: { opacity: "1", transform: "translateY(0)" },
         },
         "count-up": {
-          "0%": { opacity: "0" },
-          "100%": { opacity: "1" },
-        },
-        "float": {
-          "0%, 100%": { transform: "translateY(0)" },
-          "50%": { transform: "translateY(-10px)" },
-        },
-        "pulse-gold": {
-          "0%, 100%": { boxShadow: "0 0 0 0 rgba(201, 162, 39, 0.4)" },
-          "50%": { boxShadow: "0 0 20px 10px rgba(201, 162, 39, 0)" },
-        },
-        "ken-burns": {
-          "0%": { transform: "scale(1)" },
-          "100%": { transform: "scale(1.05)" },
+          from: { opacity: "0" },
+          to: { opacity: "1" },
         },
       },
       animation: {
         "accordion-down": "accordion-down 0.2s ease-out",
         "accordion-up": "accordion-up 0.2s ease-out",
         "caret-blink": "caret-blink 1.25s ease-out infinite",
-        "fade-in-up": "fade-in-up 0.6s ease-out forwards",
-        "fade-in": "fade-in 0.5s ease-out forwards",
-        "slide-in-left": "slide-in-left 0.6s ease-out forwards",
-        "slide-in-right": "slide-in-right 0.6s ease-out forwards",
-        "scale-in": "scale-in 0.5s ease-out forwards",
-        "float": "float 6s ease-in-out infinite",
-        "pulse-gold": "pulse-gold 2s ease-in-out infinite",
-        "ken-burns": "ken-burns 5s ease-out forwards",
+        "fade-in": "fade-in 0.5s ease-out",
+        "slide-up": "slide-up 0.5s ease-out",
       },
     },
   },
